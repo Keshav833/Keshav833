@@ -46,7 +46,6 @@ const keshav = {
 
 ## 🎯 What I'm Up To
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 🔭 Building scalable **MERN Stack** applications
 - 🌱 Mastering **System Design** & **DSA**
@@ -55,13 +54,14 @@ const keshav = {
 - 🎯 Solving problems on **LeetCode** daily
 - 📚 Learning **TypeScript**, **Docker** & **AWS**
 - ⚡ Fun fact: I believe in learning by building!
+<!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> -->
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
 <hr/>
 
 ## 🛠️ Tech Stack & Tools
 
-<div align="center">
+<div align="center" >
 
 ### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -123,9 +123,9 @@ const keshav = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keshav833&theme=radical&hide_border=true&stroke=%230000&background=0D1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Keshav833&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Keshav833&custom_title=Keshav's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=a855f7&line=a855f7&point=FFFFFF&area_color=0D1117&title_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
