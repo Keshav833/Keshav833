@@ -180,11 +180,11 @@ const keshav = {
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
 <hr/>
 
-<div align="center">
-  
-![snake gif](https://github.com/1408keshu/1408keshu/blob/output/github-snake-dark.svg)
 
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Keshav833/github-space-shooter/main/assets/space-shooter.gif" />
+</p>
+
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
 <hr/>
