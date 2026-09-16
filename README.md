@@ -46,15 +46,15 @@ const keshav = {
 
 ## 🎯 What I'm Up To
 
-<img align="right" alt="Workspace" width="400" src="https://res.cloudinary.com/dspxxj4ja/image/upload/v1789577195/Isometric_Better_Ideas_Workspace.png">
+<img align="right" alt="Workspace" width="350" src="https://res.cloudinary.com/dspxxj4ja/image/upload/v1789577195/Isometric_Better_Ideas_Workspace.png">
 
-- 🔭 Building **Backend & Full Stack** applications with Node.js, FastAPI & React
-- 🌱 Strengthening **Backend Engineering, System Design & DSA**
-- 🌐 Learning **Computer Networks, Junos & Network Automation**
-- 🐳 Exploring **Docker, Redis, PostgreSQL & Cloud Technologies**
-- 👯 Open to collaborating on **Open Source & Backend Projects**
-- 🎯 Solving **DSA problems** and preparing for technical interviews
-- ⚡ Fun fact: I believe the best way to learn is by **building, breaking, and rebuilding!**
+- 🔭 Building **Backend & Full Stack** applications
+- 🌱 Mastering **Backend Engineering, System Design & DSA**
+- 🌐 Learning **Junos & Network Automation**
+- 👯 Open to **Open Source** collaboration
+- 💼 Seeking **Backend / Full Stack** opportunities
+- 🎯 Solving **DSA** problems daily
+- ⚡ Learning by **building!**
 
 <br clear="right"/>
 
