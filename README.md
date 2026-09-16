@@ -46,19 +46,19 @@ const keshav = {
 
 ## 🎯 What I'm Up To
 
+<img align="right" alt="Workspace" width="400" src="https://res.cloudinary.com/dspxxj4ja/image/upload/v1789577195/Isometric_Better_Ideas_Workspace.png">
 
-- 🔭 Building scalable **MERN Stack** applications
-- 🌱 Mastering **System Design** & **DSA**
-- 👯 Open to collaborating on **Open Source** projects
-- 💼 Actively seeking **Full Stack Developer** opportunities
-- 🎯 Solving problems on **LeetCode** daily
-- 📚 Learning **TypeScript**, **Docker** & **AWS**
-- ⚡ Fun fact: I believe in learning by building!
-<!-- <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"> -->
+- 🔭 Building **Backend & Full Stack** applications with Node.js, FastAPI & React
+- 🌱 Strengthening **Backend Engineering, System Design & DSA**
+- 🌐 Learning **Computer Networks, Junos & Network Automation**
+- 🐳 Exploring **Docker, Redis, PostgreSQL & Cloud Technologies**
+- 👯 Open to collaborating on **Open Source & Backend Projects**
+- 🎯 Solving **DSA problems** and preparing for technical interviews
+- ⚡ Fun fact: I believe the best way to learn is by **building, breaking, and rebuilding!**
 
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
+<br clear="right"/>
+
 <hr/>
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center" >
